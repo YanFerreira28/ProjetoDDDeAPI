@@ -1,0 +1,6 @@
+C:\Users\Code\source\repos\SISControler\SISControler.Domain\bin\Debug\SISControler.Domain.dll
+C:\Users\Code\source\repos\SISControler\SISControler.Domain\bin\Debug\SISControler.Domain.pdb
+C:\Users\Code\source\repos\SISControler\SISControler.Domain\obj\Debug\SISControler.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Code\source\repos\SISControler\SISControler.Domain\obj\Debug\SISControler.Domain.dll
+C:\Users\Code\source\repos\SISControler\SISControler.Domain\obj\Debug\SISControler.Domain.pdb
+C:\Users\Code\source\repos\SISControler\SISControler.Domain\obj\Debug\SISControler.Domain.csprojAssemblyReference.cache
